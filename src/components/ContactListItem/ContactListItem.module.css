@@ -32,6 +32,7 @@
 
 .info {
   display: flex;
+  width: 150px;
   flex-direction: column;
   justify-content: center;
   align-items: center;
